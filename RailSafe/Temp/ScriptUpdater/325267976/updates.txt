@@ -1,0 +1,1 @@
+Temp/ScriptUpdater/325267976/1806634567_ThirdPersonCharacter.cs => Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs
