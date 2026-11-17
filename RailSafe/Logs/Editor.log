@@ -1,0 +1,365 @@
+Unity Editor version:    6000.6.9f1 (8c45277fb9c5)
+Branch:                  6000.6/staging
+Build type:              Release
+Batch mode:              NO
+macOS version:           Version 26.1 (Build 25B78)
+Darwin version:          25.1.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Date:                    2026-11-17T16:42:17Z
+VBCSCompilerPreWarmer: watching VBCSCompiler (PID 24251)
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 24253)
+VBCSCompiler prewarm took 10.93 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-shreyd04" at "2026-11-17T16:42:17.355296Z"
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.19.0+4cc3dda
+  Session Id:              cd7c1a84c4b74c799089740bb764d72b
+  Correlation Id:          31dcfc0f0dba6ab00308d445fcd641f7
+  External correlation Id: 5365945894895839421
+  Machine Id:              GKvs59UZKVylOCWpFdonk0w2fEo=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-shreyd04" (connect: 0.00s, validation: 0.00s, handshake: 0.10s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-shreyd04-notifications" at "2026-11-17T16:42:17.452479Z"
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token as15tBznn-...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 13470003016781-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.10s
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.6.9f1/Unity.app/Contents/MacOS/Unity
+-projectpath
+/Users/shreyd04/RailSafe-AR-VR-sim/RailSafe
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-shreyd04
+-hubSessionId
+96ebcc58-becc-414c-bda2-d6a3381e0a50
+-accessToken
+as15tBznn-cYhYD37mEb1tEornugGiY5MTuyEWnLqUo00cf
+Successfully changed project path to: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe
+/Users/shreyd04/RailSafe-AR-VR-sim/RailSafe
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [8686035072]  Target information:
+
+Player connection [8686035072]  * "[IP] 192.168.1.54 [Port] 55504 [Flags] 2 [Guid] 2496518323 [EditorId] 2496518323 [Version] 1048832 [Id] OSXEditor(0,SHREYAs-MacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8686035072] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8686035072] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 8586fabc10f855dbf269e932e327c4b2
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052672
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: false
+[Package Manager] Connected to IPC stream "Upm-24250" after 0.3 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Launching Unity Data Store - /Applications/Unity/Hub/Editor/6000.6.9f1/Unity.app/Contents/Helpers/Unity.DataStore 
+Unity Data Store artifact dir = Library/DataStore, working dir = /Users/shreyd04/RailSafe-AR-VR-sim/RailSafeSerialized file "ProjectSettings/DynamicsManager.asset" contains a PhysicsManager object at version 11, below the supported minimum (13). Open and re-save the file to upgrade.
+Unity Data Store running and initialised
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.9f1 (8c45277fb9c5)
+[EntityIdStore] init: VM path (explicit commit), pageSize=16384, blockCount=262144, entitiesPerBlock=1024, blocksPerSlotPage=0, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.6.9f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+ preferred device: Apple M1 (high power)
+Metal devices available: 1
+0: Apple M1 (high power)
+Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Mac GPU Family: 2
+Apple GPU Family: 7
+MSL Version: 3.0
+Has Float MSAA: 1
+Has Float Filtering: 1
+ReadWrite Texture Tier: 2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.6.9f1/Unity.app/Contents/Resources/Scripting/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.6.9f1/Unity.app/Contents/Resources/Scripting/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = '/Applications/Unity/Hub/Editor/6000.6.9f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.6.9f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56250
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.9f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.9f1/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001686 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.102 seconds
+Domain Reload Profiling: 1695ms
+	BeginReloadAssembly (134ms)
+		CreateAndSetChildDomain (15ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (30ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (363ms)
+		LoadAssemblies (120ms)
+		TypeCache.Refresh (263ms)
+			TypeCache.ScanAssembly (242ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (1103ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			BeforeProcessingInitializeOnLoad (96ms)
+			ProcessInitializeOnLoadAttributes (94ms)
+			ProcessInitializeOnLoadMethodAttributes (701ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 52 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.collab-proxy@2.14.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.collab-proxy@ac5a9def1e96)
+    com.unity.ide.rider@3.1.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.ide.rider@570989d4a882)
+    com.unity.ide.visualstudio@2.0.26 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.inputsystem@1.20.1 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.inputsystem@2436e68c60c4)
+    com.unity.visualscripting@1.9.13 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.visualscripting@f7fc8a0b602c)
+    com.unity.performance.profile-analyzer@1.4.2 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.performance.profile-analyzer@5491650411cd)
+    com.unity.testtools.codecoverage@1.3.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.testtools.codecoverage@19a841221620)
+    com.unity.settings-manager@2.1.1 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.settings-manager@0b8638c5ce86)
+  Built-in packages:
+    com.unity.feature.development@1.0.2 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.feature.development@767aadbc6eb7)
+    com.unity.timeline@6.6.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.timeline@da5138fccaf6)
+    com.unity.ugui@2.6.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.ugui@ff4f88904a57)
+    com.unity.modules.accessibility@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.terrainphysics)
+    com.unity.modules.tetgen@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.tetgen)
+    com.unity.modules.tilemap@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.tilemap)
+    com.unity.modules.timelinefoundation@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.timelinefoundation)
+    com.unity.modules.ui@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.test-framework@1.8.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.test-framework@01a8b42f9cf6)
+    com.unity.editorcoroutines@6.6.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.editorcoroutines@8cd72baa102a)
+    com.unity.ext.nunit@2.1.0 (location: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Library/PackageCache/com.unity.ext.nunit@0198eae3b53e)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.00 seconds
+Starting: /Applications/Unity/Hub/Editor/6000.6.9f1/Unity.app/Contents/Resources/BuildPipeline/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/200b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe
+ExitCode: 0 Duration: 0s265ms
+[407/510    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.24 seconds), 1 items updated, 510 evaluated
+AssetDatabase: script compilation time: 1.027012s
+Total cache size 32252108
+Total cache size after purge 32252108, took 00:00:00.0456877
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 2.94 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.690 seconds
+Domain Reload Profiling: 1473ms
+	BeginReloadAssembly (209ms)
+		DisableScriptedObjects (16ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (9ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (504ms)
+		LoadAssemblies (271ms)
+		TypeCache.Refresh (173ms)
+			TypeCache.ScanAssembly (155ms)
+		AnalyzeDomain (40ms)
+			BuildScriptInfoCaches (36ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (691ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (96ms)
+			ProcessInitializeOnLoadAttributes (328ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.9f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Starting new worker id: 0 with log in /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=0f77703aaa1634f2f9ab1480ba74c628): Total: 3.136 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1230 ms
+		Asset DB Callback time: managed=19 ms, native=7 ms
+		Scripting: domain reloads=1, domain reload time=812 ms, compile time=1030 ms, other=35 ms
+		Project Asset Count: scripts=841, non-scripts=955
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.184ms
+	InvokePackagesCallback: 8.669ms
+	ApplyChangesToAssetFolders: 0.358ms
+	Scan: 279.791ms
+	Collect global state as custom dependencies: 14.519ms
+	CategorizeScriptCompilationAssets: 52.931ms
+	ProcessAssetsWithTransientArtifactChanges: 43.376ms
+	CategorizeAssets: 20.716ms
+	CompileScripts: 1029.530ms
+	ImportOutOfDateAssets: 702.250ms (697.036ms without children)
+		UnloadImportedAssets: 1.779ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.457ms
+		ImportSchedulerStart: 2.974ms
+	PostProcessAllAssets: 19.289ms
+		MonoPostProcessAllAssets: 19.244ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 7.659ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.820ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 0.711ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.393ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.271ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.188ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.151ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.143ms
+			SyncVS.PostprocessSyncProject 0.078ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.072ms
+	UnloadStreamsBegin: 1.502ms
+	PersistCurrentRevisions: 0.085ms
+	GenerateScriptTypeHashes: 1.153ms
+	GenerateScriptTypeSerializationHashes: 2.457ms
+	Untracked: 960.065ms
+
+Application.AssetDatabase Initial Refresh End
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Scanning for USB devices : 0.054ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-RailSafe
+2026-11-17 22:12:24.121 Unity[24250:22590539] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x9b795d7c0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Serialized file "Assets/Scenes/SampleScene.unity" contains a Light object at version 8, below the supported minimum (9). Open and re-save the file to upgrade.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            2.536 ms
+	Integration:            16.438 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       0.015 ms
+	Total Operation Time:   18.992 ms
+Unloading 4345 unused Assets / (4.8 MB). Loaded Objects now: 5080.
+Memory consumption went from 486.7 MB to 481.8 MB.
+Total: 13.571750 ms (FindLiveObjects: 0.704208 ms CreateObjectMapping: 0.209625 ms MarkObjects: 10.846667 ms  DeleteObjects: 1.561042 ms)
+
+[LAYOUT] About to load UserSettings/Layouts/default-6000.dwlt, keepMainWindow=False
+[LAYOUT] About to save layout /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/shreyd04/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+[Project] Loading completed in 8.183 seconds
+	Project init time: 				0.000 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.000 seconds
+		Asset Database init time: 		0.000 seconds
+		Global illumination init time: 	0.000 seconds
+		Assemblies load time: 			0.000 seconds
+		Unity extensions init time: 	0.000 seconds
+		Asset Database refresh time: 	0.000 seconds
+	Scene opening time: 			0.000 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1794933745507,"processId":24250,"projectLoad":8.183224625,"projectInit":0.0,"templateInit":0.0,"packageManagerInit":0.0,"assetDatabaseInit":0.0,"globalIlluminationInit":0.0,"assembliesLoad":0.0,"unityExtensionsInit":0.0,"assetDatabaseRefresh":0.0,"sceneOpening":0.0}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1794933745507,"processId":24250,"editorVersion":"6000.6.9f1 (8c45277fb9c5)","branch":"6000.6/staging","buildType":"Release","platform":"OSX"}
+Subscribe to USB device events
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+Worker ready: AssetImportWorkerHW0 0
+Created GICache directory at /Users/shreyd04/Library/Caches/com.unity3d.UnityEditor/GiCache. Took: 0.008s, timestamps: [8.212 - 8.220]
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "as15tBzn"... (expires: 2026-11-17T17:46:03Z)
+[Licensing::Client] Successfully resolved entitlement details
+TrimDiskCacheJob: Current cache size 0mb
+2026-11-17 22:13:20.073 Unity[24250:22590539] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x9b794ed00 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Script 'Foo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Foo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Asset Pipeline Refresh (id=41c05a01a13c141ecab9bd9c9697c1b8): Total: 0.149 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=d77144f61888b463fa34d0f57f373157): Total: 0.074 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)

@@ -1,0 +1,30 @@
+[2026-11-17T16:42:17.996Z][INFO] Command-line: /Applications/Unity/Hub/Editor/6000.6.9f1/Unity.app/Contents/Helpers/PackageManager/Server/UnityPackageManager server -s 24250 --ipc-path /tmp/Unity-Upm-24250.sock -l 2 --log-file /Users/shreyd04/RailSafe-AR-VR-sim/RailSafe/Logs/upm.log
+[2026-11-17T16:42:18.023Z][INFO] IPC server started (IPC path=/tmp/Unity-Upm-24250.sock).
+[2026-11-17T16:42:18.023Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-24250.
+[2026-11-17T16:42:19.765Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-17T16:42:19.894Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-17T16:42:19.900Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-17T16:42:19.916Z][INFO] config:project:get-registries --> 200 (23 ms)
+[2026-11-17T16:42:19.960Z][INFO] project:list-packages --> 200 (195 ms)
+[2026-11-17T16:42:20.031Z][INFO] project:list-packages --> 200 (132 ms)
+[2026-11-17T16:42:23.154Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-17T16:42:23.187Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-17T16:42:23.256Z][INFO] project:list-packages --> 200 (102 ms)
+[2026-11-17T16:42:23.316Z][INFO] project:list-packages --> 200 (129 ms)
+[2026-11-17T16:42:23.389Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-17T16:42:23.444Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-17T16:42:23.449Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-11-17T16:42:23.464Z][INFO] project:list-packages --> 200 (75 ms)
+[2026-11-17T16:42:25.485Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-17T16:42:25.683Z][INFO] project:list-packages --> 200 (198 ms)
+[2026-11-17T16:42:28.352Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-17T16:42:30.675Z][INFO] project:list-packages --> 200 (2323 ms)

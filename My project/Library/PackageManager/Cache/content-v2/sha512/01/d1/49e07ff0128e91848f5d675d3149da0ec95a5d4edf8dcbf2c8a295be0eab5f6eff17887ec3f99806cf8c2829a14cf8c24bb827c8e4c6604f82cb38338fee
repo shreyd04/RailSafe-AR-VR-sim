@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-+RjpzI+8JlPfwHCdEvhqQhVXJm+co9Ra66vkM99w2/M=","packageName":"com.unity.performance.profile-analyzer","packageVersion":"1.4.2","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}
