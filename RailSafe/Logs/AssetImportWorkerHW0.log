@@ -237,3 +237,594 @@ Memory consumption went from 430.8 MB to 430.8 MB.
 Total: 18.753291 ms (FindLiveObjects: 0.466666 ms CreateObjectMapping: 0.090083 ms MarkObjects: 17.980042 ms  DeleteObjects: 0.024292 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T16:56:37.547544Z
+  Time since last request: 979648.83179979096167 seconds.
+  importAddress: GUID: aaf419eb73b2e42edbcf0a14d7584485 - Path: Assets/ThirdParty - Importer: PreviewImporter
+Importing 'GUID: aaf419eb73b2e42edbcf0a14d7584485 - Path: Assets/ThirdParty - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: aaf419eb73b2e42edbcf0a14d7584485' -> (Import Result ID: 'dcec396b270f2df0ae324275dd1cf8aa') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a98894b037d73615fc52b1e06a8f371e DependenciesID=abc1885cb535731c8232e1a4d662be65 StaticDependenciesID=226a3b6bd5a47c0786c110663d9c1672 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T16:56:38.460684Z
+  Time since last request: 0.888350625 seconds.
+  importAddress: GUID: aaf419eb73b2e42edbcf0a14d7584485 - Path: Assets/ThirdParty - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: aaf419eb73b2e42edbcf0a14d7584485 - Path: Assets/ThirdParty - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: aaf419eb73b2e42edbcf0a14d7584485' -> (Import Result ID: '4cf50019b5524ec8cb28e4030757a1cf') in 0.070 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ce18447d42186886652a4f1e7ef17198 DependenciesID=a66e3ed9deca8963262bd34fd9ea508d StaticDependenciesID=432c8ebc011d78786f9502bc3c769617 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T16:57:17.676155Z
+  Time since last request: 39.146590625 seconds.
+  importAddress: GUID: a869552100fdf4b038e91d7545434775 - Path: Assets/ThirdParty/UnityPedestrainSim - Importer: PreviewImporter
+Importing 'GUID: a869552100fdf4b038e91d7545434775 - Path: Assets/ThirdParty/UnityPedestrainSim - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: a869552100fdf4b038e91d7545434775' -> (Import Result ID: '40c65f8df2d77855cfb5a4bfbc49b1a1') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=091ef1ba5162df75ff28875a921da908 DependenciesID=09d4a5a5df4681b7a4fd911b7e7fe0e0 StaticDependenciesID=d8bcee8d0ea8b4fae2213ffa7e9330dc 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T16:57:18.652443Z
+  Time since last request: 0.968509916 seconds.
+  importAddress: GUID: a869552100fdf4b038e91d7545434775 - Path: Assets/ThirdParty/UnityPedestrainSim - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: a869552100fdf4b038e91d7545434775 - Path: Assets/ThirdParty/UnityPedestrainSim - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: a869552100fdf4b038e91d7545434775' -> (Import Result ID: 'a2df13d0905657c516489039e4168145') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e42cd42030a280ffca3f6214df51d28f DependenciesID=840358427ac3023d88a6458dc3831288 StaticDependenciesID=990fadce54e6a35095b34c55f5f350ad 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4324 unused Assets / (386.3 KB). Loaded Objects now: 5031.
+Memory consumption went from 434.2 MB to 433.9 MB.
+Total: 25.840958 ms (FindLiveObjects: 0.905291 ms CreateObjectMapping: 0.306959 ms MarkObjects: 23.686125 ms  DeleteObjects: 0.589458 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:29.272936Z
+  Time since last request: 370.61278725 seconds.
+  importAddress: GUID: c9f4dd46deec96045b6d8eeec4c3e641 - Path: Assets/ThirdParty/UnityPedestrainSim/CrowdGen/PedestrianDest.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: c9f4dd46deec96045b6d8eeec4c3e641 - Path: Assets/ThirdParty/UnityPedestrainSim/CrowdGen/PedestrianDest.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: c9f4dd46deec96045b6d8eeec4c3e641' -> (Import Result ID: '77aa5808df11468576946908ee556fad') in 0.105 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5672e5c2990332e6439b65451a0bb47a DependenciesID=5f628a1a2acee02327e5e68f19a3bcdd StaticDependenciesID=9b5477f88201933935b6a867aff3603a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:29.379284Z
+  Time since last request: 0.000400667 seconds.
+  importAddress: GUID: 451238bd7f8b3244eb8bc8eb639dd46d - Path: Assets/ThirdParty/UnityPedestrainSim/CrowdGen/PedestrianEnd.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 451238bd7f8b3244eb8bc8eb639dd46d - Path: Assets/ThirdParty/UnityPedestrainSim/CrowdGen/PedestrianEnd.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 451238bd7f8b3244eb8bc8eb639dd46d' -> (Import Result ID: '7dce6833a145f883388b3e99ef570a2f') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=10cc52c940346dd1b5df6f6deb86ba08 DependenciesID=124a42e82a379311dfd1dde91e387977 StaticDependenciesID=b4185e7d83fdf2afebd1340af09f90da 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:29.381765Z
+  Time since last request: 0.00076825 seconds.
+  importAddress: GUID: 6c3a65411decf604f8c2f964e5d7dd25 - Path: Assets/ThirdParty/UnityPedestrainSim/CrowdGen/PedestrianCrowdPath.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 6c3a65411decf604f8c2f964e5d7dd25 - Path: Assets/ThirdParty/UnityPedestrainSim/CrowdGen/PedestrianCrowdPath.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 6c3a65411decf604f8c2f964e5d7dd25' -> (Import Result ID: '9da3fb7234fa2f1454071e1f135ffafe') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=94202b14f3fbb60f76c8657f3e4bead5 DependenciesID=30749b88f141662c0d35385fe4bc44c3 StaticDependenciesID=7e0ec6f02c0be1dac932fbf87f998d32 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:29.384344Z
+  Time since last request: 0.000631417 seconds.
+  importAddress: GUID: 03e453cd1ff2bed4d8f2433ae3f99eee - Path: Assets/ThirdParty/UnityPedestrainSim/CrowdGen/PedestrianCrowdGen.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 03e453cd1ff2bed4d8f2433ae3f99eee - Path: Assets/ThirdParty/UnityPedestrainSim/CrowdGen/PedestrianCrowdGen.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 03e453cd1ff2bed4d8f2433ae3f99eee' -> (Import Result ID: 'eec358c6631f6b9d3070bc2abf039a89') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0108f831aa0b054077f6cc0ca0533e19 DependenciesID=60696b11d62cdc7719c6d5c92a961f1c StaticDependenciesID=f696718a7241989ad3ae34a67c72d96f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4 unused Assets / (1.6 KB). Loaded Objects now: 5031.
+Memory consumption went from 432.1 MB to 432.1 MB.
+Total: 25.968833 ms (FindLiveObjects: 0.749916 ms CreateObjectMapping: 0.179417 ms MarkObjects: 24.605958 ms  DeleteObjects: 0.143291 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:35.050719Z
+  Time since last request: 5.66482575 seconds.
+  importAddress: GUID: bffa9f1b97044e144b98401d1f7d2f6b - Path: Assets/ThirdParty/UnityPedestrainSim/Prefabs/SFCharacter.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: bffa9f1b97044e144b98401d1f7d2f6b - Path: Assets/ThirdParty/UnityPedestrainSim/Prefabs/SFCharacter.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: bffa9f1b97044e144b98401d1f7d2f6b' -> (Import Result ID: 'ba5046c4a4f9f9e0ac304b14c1dd94fc') in 0.057 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=908a62f2a396b4c76e0261e48f20acc3 DependenciesID=522545a8e28da88c2521b44d91df1c97 StaticDependenciesID=ea8ee1b6e3219436b19ed44798a2a2e3 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 184
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:35.109249Z
+  Time since last request: 0.000349542 seconds.
+  importAddress: GUID: 224f762d0c08513429fd2c5ff951677c - Path: Assets/ThirdParty/UnityPedestrainSim/Prefabs/Material/Wall.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 224f762d0c08513429fd2c5ff951677c - Path: Assets/ThirdParty/UnityPedestrainSim/Prefabs/Material/Wall.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 224f762d0c08513429fd2c5ff951677c' -> (Import Result ID: 'cf1041f4ad18f47335bc42b904df3830') in 0.577 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0997fffddc8cac543e20662821f85747 DependenciesID=76ea2ff3af9ff295d184389ebedef3c0 StaticDependenciesID=88e90cd6106009fec721b0ad066f1fa5 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:41.178109Z
+  Time since last request: 5.491283083 seconds.
+  importAddress: GUID: 558163749e0175145868ad74eda3af6b - Path: Assets/ThirdParty/UnityPedestrainSim/Scenes/Materials/2107-normal.jpg - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 558163749e0175145868ad74eda3af6b - Path: Assets/ThirdParty/UnityPedestrainSim/Scenes/Materials/2107-normal.jpg - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 558163749e0175145868ad74eda3af6b' -> (Import Result ID: '692cf8aec536fbac73be22045f26da77') in 0.054 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9ad98a26729777f201d8393eeedece7b DependenciesID=64ef274b9696d900a1c8082ef0a2547b StaticDependenciesID=ee897fb50048ba1888e4a75a9268706d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:41.233708Z
+  Time since last request: 0.000878167 seconds.
+  importAddress: GUID: 4f9cba0eef069284783cdc68d97328f5 - Path: Assets/ThirdParty/UnityPedestrainSim/Scenes/Materials/Ground.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 4f9cba0eef069284783cdc68d97328f5 - Path: Assets/ThirdParty/UnityPedestrainSim/Scenes/Materials/Ground.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 4f9cba0eef069284783cdc68d97328f5' -> (Import Result ID: '50f64ca63ec5ef8b7905d8b76f483d00') in 0.065 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d1e27c16bdea9e677b3b4a06e1014713 DependenciesID=b931a1f460ef67dc72d8a62171f990fd StaticDependenciesID=c19c3303a26f71fd9b108c23dce32ddb 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4326 unused Assets / (0.7 MB). Loaded Objects now: 5035.
+Memory consumption went from 435.9 MB to 435.2 MB.
+Total: 19.300750 ms (FindLiveObjects: 0.762000 ms CreateObjectMapping: 0.158292 ms MarkObjects: 17.597500 ms  DeleteObjects: 0.597334 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:45.359924Z
+  Time since last request: 4.061518666 seconds.
+  importAddress: GUID: 85f32ca3def0846b2a942a8fd53e9a84 - Path: Assets/ThirdParty/UnityPedestrainSim/SocialForceModel - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 85f32ca3def0846b2a942a8fd53e9a84 - Path: Assets/ThirdParty/UnityPedestrainSim/SocialForceModel - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 85f32ca3def0846b2a942a8fd53e9a84' -> (Import Result ID: '4a7e6910364e346f5cd967c48eb45da8') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b4acaa7afc15d3c04e3045c76974103d DependenciesID=520eb0ab72d43ce8048e3928092ae349 StaticDependenciesID=91f1a7e69c577f633295634e98bf46d1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:45.362443Z
+  Time since last request: 0.000197417 seconds.
+  importAddress: GUID: b2a9c5cadca5a1b46b7dbc3a4aa81333 - Path: Assets/ThirdParty/UnityPedestrainSim/SocialForceModel/Wall.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: b2a9c5cadca5a1b46b7dbc3a4aa81333 - Path: Assets/ThirdParty/UnityPedestrainSim/SocialForceModel/Wall.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: b2a9c5cadca5a1b46b7dbc3a4aa81333' -> (Import Result ID: '9bcd34d7097f8d83660666c31896797e') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=614d2b729a0708f63214f9adf284e227 DependenciesID=9690df94b4ec9442962a7d7b33b76b88 StaticDependenciesID=d30c0383761b54bb27d0cabfc12617b8 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4340 unused Assets / (0.9 MB). Loaded Objects now: 5049.
+Memory consumption went from 435.8 MB to 434.9 MB.
+Total: 25.283291 ms (FindLiveObjects: 0.740333 ms CreateObjectMapping: 0.164458 ms MarkObjects: 23.484833 ms  DeleteObjects: 0.699625 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.217833Z
+  Time since last request: 6.853493417 seconds.
+  importAddress: GUID: 1c52c953c83c2254a9fa72d50250f028 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurn.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1c52c953c83c2254a9fa72d50250f028 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurn.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1c52c953c83c2254a9fa72d50250f028' -> (Import Result ID: '7680337f90e03137d39df83aded47eee') in 0.054 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e07e810fb1455f50f58410ce624c1670 DependenciesID=8577e8574b81f2c19e224a5095e81014 StaticDependenciesID=8c366246fee311d075ed447e492f1110 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 158
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.273424Z
+  Time since last request: 0.000332084 seconds.
+  importAddress: GUID: 85bf3be603548374ca46f521a3aa7fda - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 85bf3be603548374ca46f521a3aa7fda - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 85bf3be603548374ca46f521a3aa7fda' -> (Import Result ID: '34863ade7f7e2e321c1ac169e2d634d6') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=14cfcd0061a0ccd39c25e68c4867c7a0 DependenciesID=71b1d9bcd21ee142aed40314c21a854b StaticDependenciesID=5412499ed4aad54472f60a06bf53014f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.275453Z
+  Time since last request: 0.00046125 seconds.
+  importAddress: GUID: a3b997593a4f12c4c991490593f3b513 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: a3b997593a4f12c4c991490593f3b513 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: a3b997593a4f12c4c991490593f3b513' -> (Import Result ID: '06e3debc620e36ccc6df0c47d05de617') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4859caecf5c4813baf1253172b5ae48a DependenciesID=596cbf3df8d2c737fb4a1af5553f6fe3 StaticDependenciesID=017cad31704c17faba7c6d19ba08ee87 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.277335Z
+  Time since last request: 0.000554375 seconds.
+  importAddress: GUID: 710bc43f80d178548bd226c252c8e65b - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 710bc43f80d178548bd226c252c8e65b - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 710bc43f80d178548bd226c252c8e65b' -> (Import Result ID: 'd9514c9d8b5d124f0497d1837a99986d') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=19419d0512e30ddb2527ab67e667b7df DependenciesID=98153c36b489d4bb4a6af3a8225107a3 StaticDependenciesID=3630d5ef14e96a15d5463090d1eec347 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.279397Z
+  Time since last request: 0.000667708 seconds.
+  importAddress: GUID: a94c9a7eb94ceec4a8d67a1890e22e51 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: a94c9a7eb94ceec4a8d67a1890e22e51 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: a94c9a7eb94ceec4a8d67a1890e22e51' -> (Import Result ID: '6837c75e99de18be16aed281a201b63e') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f705a3bc33695f7a6c7bcc3f8d684d9e DependenciesID=eb868985e64796b4f7c4d104cac7469d StaticDependenciesID=f40b89dc103f3737ae260cbdbc702a24 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.291133Z
+  Time since last request: 0.000612709 seconds.
+  importAddress: GUID: 1835e4537efbdd94b93c2dd136860f1d - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1835e4537efbdd94b93c2dd136860f1d - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1835e4537efbdd94b93c2dd136860f1d' -> (Import Result ID: '1dfa049bee0aa740d006d5209b2bff85') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=62d87475f8b61424263fa846462bc437 DependenciesID=53fd38c4c3f2565bcf687f3538dde0cc StaticDependenciesID=cdbca0af3f48211ef81a723b1e40a26b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.293053Z
+  Time since last request: 0.000417833 seconds.
+  importAddress: GUID: f588d850485d0ae479d73cf3bd0b7b00 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: f588d850485d0ae479d73cf3bd0b7b00 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: f588d850485d0ae479d73cf3bd0b7b00' -> (Import Result ID: '1a74764012e5c72e917b09f7b70b1a49') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cd01c1cc5fb8de8b77f365fa0a8c53c3 DependenciesID=2158cc205b45e16650ccb63bf22eac7c StaticDependenciesID=7be53bb5e99aea641d65853710ad9df5 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.300497Z
+  Time since last request: 0.000363875 seconds.
+  importAddress: GUID: 0d9d26e2162aa4d11ab075b34c029673 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdleJumpUp.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 0d9d26e2162aa4d11ab075b34c029673 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdleJumpUp.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 0d9d26e2162aa4d11ab075b34c029673' -> (Import Result ID: '4404459023f9ebc5a0121d24e7419894') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=904fa13a90d0f990d5cd71e14c18e064 DependenciesID=05e71e85abaa348349b99303a7154f7f StaticDependenciesID=1720d6ee71bdc96977a9e9c180969081 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 182
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.312668Z
+  Time since last request: 0.000403709 seconds.
+  importAddress: GUID: 0f57aeb1b8dce3342bea5c28ac17db24 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 0f57aeb1b8dce3342bea5c28ac17db24 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 0f57aeb1b8dce3342bea5c28ac17db24' -> (Import Result ID: '2891d59feee623649ffe747f71d44d28') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=da51fb23905d987b25e25e14bd045349 DependenciesID=543b8248d76e1f8db7226d1e66e8bcfc StaticDependenciesID=e25d0e72e6ca5c70a69c511840a612c6 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.315336Z
+  Time since last request: 0.000586333 seconds.
+  importAddress: GUID: b235179bd2a63d1468dd430670338c55 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: b235179bd2a63d1468dd430670338c55 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: b235179bd2a63d1468dd430670338c55' -> (Import Result ID: '48caebc1655dd5d02e84d6979efe9b3e') in 0.019 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8c7ffd01395189153f62e868a17fd893 DependenciesID=00de81fd4c46d104cad75544a0ca804a StaticDependenciesID=d0c2d5cf5d82163bf8407017e30bac12 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 177
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.335198Z
+  Time since last request: 0.000297542 seconds.
+  importAddress: GUID: f03e10c73f30b4ab4aa8ea8f1cc16d36 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidMidAir.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: f03e10c73f30b4ab4aa8ea8f1cc16d36 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidMidAir.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: f03e10c73f30b4ab4aa8ea8f1cc16d36' -> (Import Result ID: 'a3dc5a995bd9f62577e8a6797cad7a2c') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8145064ae3baa281eb12082058d9f13b DependenciesID=99d24dd7b1ac5e5726dc970a006f2ab6 StaticDependenciesID=c5c651a98bc13fb971cfbec6faeb3aaa 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 184
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.343174Z
+  Time since last request: 0.000099084 seconds.
+  importAddress: GUID: 9529ecc3d479da5499993355e6c2cb4f - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 9529ecc3d479da5499993355e6c2cb4f - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 9529ecc3d479da5499993355e6c2cb4f' -> (Import Result ID: 'ff77b16e267e1971ae7228296c18aa29') in 0.061 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f661cd9b10ea83cb051cad67e3bb6918 DependenciesID=9b1072e01a5814159bda87fe946ea26a StaticDependenciesID=3e05f8f111449027e366da0f12a05161 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.405538Z
+  Time since last request: 0.000623875 seconds.
+  importAddress: GUID: f62b52b2d4b721742a0bc5c6b4db468d - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: f62b52b2d4b721742a0bc5c6b4db468d - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Serialized file "Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat" contains a Material object at version 4, below the supported minimum (6). Open and re-save the file to upgrade.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:LoadMainAssetAtPath (string)
+UnityEditor.Search.AssetIndexer:IndexProperties (int&,string&,bool&) (at /Users/bokken/build/output/unity/unity/Modules/QuickSearch/Editor/Indexing/AssetIndexer.cs:287)
+UnityEditor.Search.AssetIndexer:IndexDocument (string,bool) (at /Users/bokken/build/output/unity/unity/Modules/QuickSearch/Editor/Indexing/AssetIndexer.cs:206)
+UnityEditor.Search.SearchIndexArtifactImporter:OnImportAsset (UnityEditor.AssetImporters.AssetImportContext) (at /Users/bokken/build/output/unity/unity/Modules/QuickSearch/Editor/Indexing/SearchIndexArtifactImporter.cs:42)
+UnityEditor.AssetImporters.ScriptedImporter:GenerateAssetData (UnityEditor.AssetImporters.AssetImportContext) (at /Users/bokken/build/output/unity/unity/Modules/AssetPipelineEditor/Public/ScriptedImporter.cs:25)
+
+[/Users/bokken/build/output/unity/unity/Modules/QuickSearch/Editor/Indexing/AssetIndexer.cs line 287]
+
+Imported 'GUID: f62b52b2d4b721742a0bc5c6b4db468d' -> (Import Result ID: 'e265d786c3414316b5e70218112d0b2a') in 0.069 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=750a81f6a7d8a2141edcaa4a6cfd0920 DependenciesID=13adbcc29d7170298b72d6ba6818673a StaticDependenciesID=110b8332f1100f9ffecd0d91abb85ffa 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.475341Z
+  Time since last request: 0.000045625 seconds.
+  importAddress: GUID: 3369231b1ed7ad34e84d9240a571db81 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 3369231b1ed7ad34e84d9240a571db81 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 3369231b1ed7ad34e84d9240a571db81' -> (Import Result ID: 'd9325c2f890d6a86663de884c70d890a') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=29094c533ed950562b65c90d54b8f71f DependenciesID=958e6256a560a0a1ae6b8e179054b874 StaticDependenciesID=5714b804b07c1006c845a0f921d069d0 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 56
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.485138Z
+  Time since last request: 0.000415917 seconds.
+  importAddress: GUID: 49b611e658efbf443b686a4036f74fe3 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 49b611e658efbf443b686a4036f74fe3 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 49b611e658efbf443b686a4036f74fe3' -> (Import Result ID: '53afc5f542cf0f830b34e01e0d82ff68') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c8c5d6af163d04071a704f33526e4c28 DependenciesID=ed939f43a3888a1603f89f217918c111 StaticDependenciesID=08c1c47afcd8d02df52751e972481238 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.491611Z
+  Time since last request: 0.00072975 seconds.
+  importAddress: GUID: ce7a80d520cacc042b5fe14f373d8173 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: ce7a80d520cacc042b5fe14f373d8173 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: ce7a80d520cacc042b5fe14f373d8173' -> (Import Result ID: '8340fd09ce60480c2a7bbc07dcb522e8') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7f1606292baf9516d7c1494ba6f90a10 DependenciesID=e6cd453679bbbdaff5f137a9585dc189 StaticDependenciesID=bf11c49c698cd11e08a3177521eceba8 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.494219Z
+  Time since last request: 0.000768875 seconds.
+  importAddress: GUID: 2169821f0567671499a5c10104c69c24 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 2169821f0567671499a5c10104c69c24 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 2169821f0567671499a5c10104c69c24' -> (Import Result ID: 'b071fae6d975ab4d8e2466f590f4326e') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3cae55f92ada9bd7fb66c3df3c3ceaa5 DependenciesID=ccf64d08e222afd66e4978a42b77ef8d StaticDependenciesID=77c627a7ab645f57ae08441fc455b5b1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 37
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.50395Z
+  Time since last request: 0.000456125 seconds.
+  importAddress: GUID: ea5873cfd9158664f89459f0c9e1d853 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: ea5873cfd9158664f89459f0c9e1d853 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: ea5873cfd9158664f89459f0c9e1d853' -> (Import Result ID: '6bbee910076acfb3b90e45b0bb79f2c1') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c3cda554283875a87f6ee6ede17bcdd4 DependenciesID=61a1621b9917c77263451cce1e275a1b StaticDependenciesID=c7d6c167012c11a0065b007290c4cfc6 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.512777Z
+  Time since last request: 0.000565125 seconds.
+  importAddress: GUID: f93df448921b46c45999c77f43856ba2 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Materials - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: f93df448921b46c45999c77f43856ba2 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Materials - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: f93df448921b46c45999c77f43856ba2' -> (Import Result ID: 'e96c4a643fe5984dc1704eed2a06a9c0') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=60cd5171be2f169ea4342e32cb7153e3 DependenciesID=fcd6794508dae503e60d147c877e765d StaticDependenciesID=944107c08db4acb655d373add3fac4ca 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.514926Z
+  Time since last request: 0.0005315 seconds.
+  importAddress: GUID: 8c32f58513a41ef4dab9cb7704c5fb92 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 8c32f58513a41ef4dab9cb7704c5fb92 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 8c32f58513a41ef4dab9cb7704c5fb92' -> (Import Result ID: '8125d22250f3c91be05f52bcc09a13ca') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=251d713dbe042f97540f5635a5fcc591 DependenciesID=6cd675a1cc32084e748fe86fa79929a7 StaticDependenciesID=f871267d74bf83a8e11ad3fa7af34c75 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.517151Z
+  Time since last request: 0.000742125 seconds.
+  importAddress: GUID: 3b5b7be0f2332c24f89a2af018daa62d - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 3b5b7be0f2332c24f89a2af018daa62d - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 3b5b7be0f2332c24f89a2af018daa62d' -> (Import Result ID: '957d64a0b57097bb892893adba5e50c2') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1c8d24ab6de61f3474f172f2d9dd0b62 DependenciesID=68e078e139ab97149d255cf9ea2d6f27 StaticDependenciesID=b175765be5c08a96e88da4ca76b4d2ba 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.53159Z
+  Time since last request: 0.000872042 seconds.
+  importAddress: GUID: 7d3269566d48b8447bb48d2259e28f8b - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 7d3269566d48b8447bb48d2259e28f8b - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 7d3269566d48b8447bb48d2259e28f8b' -> (Import Result ID: '1a39dbd1bf4f06fc726576cb0593a8b7') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7688c70ba12860e0a650234eeab83205 DependenciesID=5d3fab8f80b2ddaeb79ac0e0e939173b StaticDependenciesID=109f76a0e7f6a4be4002f002255b1d59 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.533705Z
+  Time since last request: 0.000516417 seconds.
+  importAddress: GUID: 1caf40fc8bebb6b43b2550c05ca791d6 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1caf40fc8bebb6b43b2550c05ca791d6 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1caf40fc8bebb6b43b2550c05ca791d6' -> (Import Result ID: '5e20658474b2b5aeb94e7bdfed83c900') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=597b5208c3217ade8b591bd5f39f35dd DependenciesID=7705117e02e134774faa5df2b6023365 StaticDependenciesID=cf5c598723b4e29cad9d5f0e975d1ab4 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.535931Z
+  Time since last request: 0.000824708 seconds.
+  importAddress: GUID: 8912f13e18e67bc478684ec30d73bc64 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 8912f13e18e67bc478684ec30d73bc64 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 8912f13e18e67bc478684ec30d73bc64' -> (Import Result ID: '599238bcd18bbbdc06e48e05b96ab8fd') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=15b91389b14260d0dd6707553038cbe8 DependenciesID=3eb4c9a32b0b0b99f4e3d5b628c26fce StaticDependenciesID=2421e12303c165ed65e14f5aa674b29e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.538548Z
+  Time since last request: 0.000741709 seconds.
+  importAddress: GUID: 5485e2f56028a3c4cb54f5caa167377e - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 5485e2f56028a3c4cb54f5caa167377e - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 5485e2f56028a3c4cb54f5caa167377e' -> (Import Result ID: 'ea20ab2109ddcb922ad1659e1028cd90') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0e7124f8258149ef634b705614f3221b DependenciesID=212f9be813763480481883047ef7769d StaticDependenciesID=631fef6b45485cbf485e1189f2209131 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.54523Z
+  Time since last request: 0.000651 seconds.
+  importAddress: GUID: 51dd2e4c869794f75a0df7d54b210214 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidJumpAndFall.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 51dd2e4c869794f75a0df7d54b210214 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidJumpAndFall.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 51dd2e4c869794f75a0df7d54b210214' -> (Import Result ID: 'c86d56ef7e08d067a79aaa6eff6c7ec5') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f80a47a3f2f51f68f51908ca7f5fd3dc DependenciesID=7a46e3f2cab9c72931286080a02ffe96 StaticDependenciesID=37fe341195c9bb6d127f501676e6fa92 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.559575Z
+  Time since last request: 0.000842083 seconds.
+  importAddress: GUID: 71398ce7fbc3a5b4fa50b50bd54317a7 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 71398ce7fbc3a5b4fa50b50bd54317a7 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 71398ce7fbc3a5b4fa50b50bd54317a7' -> (Import Result ID: 'adce70d24464e3638b76577321a47f65') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6f93ff8f51c6ba7ca06122e2e5b242f5 DependenciesID=9b37d5b97bd6526cea66883729b75a4a StaticDependenciesID=fa339c69193eb95cd09319212a193af1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.561735Z
+  Time since last request: 0.0004925 seconds.
+  importAddress: GUID: eb0e763ded53048dd80e7b78c35ded56 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: eb0e763ded53048dd80e7b78c35ded56 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: eb0e763ded53048dd80e7b78c35ded56' -> (Import Result ID: '07c233750997e2fdada3c298fbfe0de2') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=00272168f62bef71df88691cc9e99431 DependenciesID=ab86f7b8068fef61a3c3c1a72d0de17f StaticDependenciesID=ba3cb84c441dfdd26a61d68dd2379554 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.564427Z
+  Time since last request: 0.000729417 seconds.
+  importAddress: GUID: 174090ae7f9eff84abe76f0ff062efac - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 174090ae7f9eff84abe76f0ff062efac - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 174090ae7f9eff84abe76f0ff062efac' -> (Import Result ID: '9cc05c50d2f17a2c6ebd8d8ec8bafa8b') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cc2a5e465371a5f79dff374c7ccacaa4 DependenciesID=c714143767f914e8616144a6526a5b1a StaticDependenciesID=b7c62d3e236ad2b39dbbf8d09cf56b0e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 32
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.570364Z
+  Time since last request: 0.000546542 seconds.
+  importAddress: GUID: e09f07f9be24b2d4180a74a671348b5b - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Prefabs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: e09f07f9be24b2d4180a74a671348b5b - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Prefabs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: e09f07f9be24b2d4180a74a671348b5b' -> (Import Result ID: '6b5526b6a558a64cb1429d70df953b1e') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=721998caf64d50678ad211c423d115f9 DependenciesID=78f9ec66d7b8fa2a505ead9a8817ce3b StaticDependenciesID=72569c495b5fb99a8619d9ed1c59155d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.572845Z
+  Time since last request: 0.000355291 seconds.
+  importAddress: GUID: 1cb8ed3cbba15f0479fbae54e0a963df - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRun.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1cb8ed3cbba15f0479fbae54e0a963df - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRun.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1cb8ed3cbba15f0479fbae54e0a963df' -> (Import Result ID: 'dce981fd59359ae1281ee1812e84cfd8') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fbbca8f12148a8b8c8f6976f38506d60 DependenciesID=6d65a25a21924837fb659b4adb83aab4 StaticDependenciesID=b2e0ee0583d3110cd9810820b0c9ff74 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 157
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.582305Z
+  Time since last request: 0.000628792 seconds.
+  importAddress: GUID: af82a5dcdad0f544c99fd1a84212021d - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/ThirdPersonCharacterGuidelines.txt - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: af82a5dcdad0f544c99fd1a84212021d - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/ThirdPersonCharacterGuidelines.txt - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: af82a5dcdad0f544c99fd1a84212021d' -> (Import Result ID: '0bef4a7027bf4d2641fe5b85e489c3a3') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e80801dd2f4d0295d21c31cbdf35e941 DependenciesID=a242b5fe5df3be6dfff7af9895ef3368 StaticDependenciesID=f8f9c61c0e77d982b4f696ac4d652f49 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.59796Z
+  Time since last request: 0.014121458 seconds.
+  importAddress: GUID: 4e2f32e9a1fefc24092337ae061f3dbc - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 4e2f32e9a1fefc24092337ae061f3dbc - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 4e2f32e9a1fefc24092337ae061f3dbc' -> (Import Result ID: 'a55dc9bdcd2c2a78a30578c0da67b60f') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3b333b8d84ae89b24cd051389455d7aa DependenciesID=72fc3be16cb5479236c67fbff5c7bedd StaticDependenciesID=38c065913d95e12ce6379139d8909a1e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.607789Z
+  Time since last request: 0.000436417 seconds.
+  importAddress: GUID: 3d8675433a508ec47b8f895201eacf20 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 3d8675433a508ec47b8f895201eacf20 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 3d8675433a508ec47b8f895201eacf20' -> (Import Result ID: '1667732da032670b35debcc5363b07c2') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=396c22e17c02115b313a3e4f503cc99f DependenciesID=331ce2b7dd83d91fed1828cad351f4c7 StaticDependenciesID=3dacbdce5a35ec5e2645e9be2e45c39e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.615333Z
+  Time since last request: 0.000502917 seconds.
+  importAddress: GUID: 29486a9cd1773f44f80570b5bd896a1d - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animator - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 29486a9cd1773f44f80570b5bd896a1d - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/Characters/ThirdPersonCharacter/Animator - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 29486a9cd1773f44f80570b5bd896a1d' -> (Import Result ID: 'e02e7c7198c500a02831c1ecd6207ecc') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a37f932f1ed47a662716dd5c77c9230b DependenciesID=171057bcc43df2f1e701b4702c2ece08 StaticDependenciesID=03e83a3d6bbf4379b1232cfe5c7cb58f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.61752Z
+  Time since last request: 0.000669084 seconds.
+  importAddress: GUID: 999388b68bb99b44099461bfbed94358 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 999388b68bb99b44099461bfbed94358 - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 999388b68bb99b44099461bfbed94358' -> (Import Result ID: '4d6058feacbe7219c048b76688805467') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6c5a1678a650e0a786e70cec1b2f19e1 DependenciesID=4fc8156e7d1721f37bb72cb9cbfe5439 StaticDependenciesID=294ea52844643c20843bbe25908e043a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-17T17:03:52.620197Z
+  Time since last request: 0.000439958 seconds.
+  importAddress: GUID: a3983c59ebf804b4abba687bd7c9e92f - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: a3983c59ebf804b4abba687bd7c9e92f - Path: Assets/ThirdParty/UnityPedestrainSim/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: a3983c59ebf804b4abba687bd7c9e92f' -> (Import Result ID: 'c065f782849926c4760be577f3608518') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f0731cd53070ca5f5ca16d103a5e1c58 DependenciesID=bb25e992bb3b98ec83840a60a41f812a StaticDependenciesID=9b8e4e746b1c9c9f025ab7ddb9c0bf50 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Thread 0x175cbb000 may have been prematurely finalized
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 2.87 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.621 seconds
+Domain Reload Profiling: 1522ms
+	BeginReloadAssembly (247ms)
+		DisableScriptedObjects (12ms)
+		CreateAndSetChildDomain (63ms)
+	RebuildCommonClasses (9ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (57ms)
+	LoadAllAssembliesAndSetupDomain (567ms)
+		LoadAssemblies (313ms)
+		TypeCache.Refresh (21ms)
+		AnalyzeDomain (185ms)
+			BuildScriptInfoCaches (173ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (622ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (4ms)
+			BeforeProcessingInitializeOnLoad (108ms)
+			ProcessInitializeOnLoadAttributes (253ms)
+			ProcessInitializeOnLoadMethodAttributes (38ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4351 unused Assets / (1.3 MB). Loaded Objects now: 5052.
+Memory consumption went from 449.8 MB to 448.5 MB.
+Total: 8.774250 ms (FindLiveObjects: 0.757791 ms CreateObjectMapping: 0.143542 ms MarkObjects: 7.021750 ms  DeleteObjects: 0.653833 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x175463000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.554 seconds
+Domain Reload Profiling: 1270ms
+	BeginReloadAssembly (252ms)
+		DisableScriptedObjects (10ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (9ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (391ms)
+		LoadAssemblies (307ms)
+		TypeCache.Refresh (13ms)
+		AnalyzeDomain (14ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (555ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (99ms)
+			ProcessInitializeOnLoadAttributes (233ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4351 unused Assets / (1.3 MB). Loaded Objects now: 5052.
+Memory consumption went from 457.8 MB to 456.5 MB.
+Total: 14.894833 ms (FindLiveObjects: 0.591708 ms CreateObjectMapping: 0.154542 ms MarkObjects: 12.366292 ms  DeleteObjects: 1.606875 ms)
+
+Prepare: number of updated asset objects reloaded= 0
